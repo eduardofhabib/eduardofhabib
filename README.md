@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Eduardo!
 
-<!--
-**eduardofhabib/eduardofhabib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor focado em C# e .NET  
+🎓 Estudante de Engenharia de Software  
+🚀 Buscando oportunidade de estágio  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+Tenho experiência prática como desenvolvedor freelancer desde 2022, trabalhando com C#, .NET Core, SQL e desenvolvimento web. Gosto de criar soluções eficientes, bem estruturadas e com foco em qualidade de código.
+
+---
+
+## 🛠️ Tecnologias
+- C#
+- .NET Core / ASP.NET MVC
+- SQL Server
+- JavaScript
+- HTML & CSS
+
+---
+
+## 📂 Projetos em destaque
+- 🔹 API REST em C# (.NET)
+- 🔹 Sistema de tarefas (To-Do List)
+- 🔹 Projeto com Unity
+
+---
+
+## 📫 Contato
+- 📧 eduardofhv@gmail.com  
+- 💼 LinkedIn: (seu link)  
+- 💻 GitHub: https://github.com/seu-user  
+- 🌐 Portfólio: (se tiver)
