@@ -30,15 +30,6 @@ Tenho experiência prática como desenvolvedor freelancer desde 2022, trabalhand
 
 ---
 
----
-
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardofhabib&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofhabib&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contato
 - 📧 eduardofhv@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/eduardohabib/
