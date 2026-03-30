@@ -26,24 +26,24 @@ Tenho experiência prática como desenvolvedor freelancer desde 2022, trabalhand
 ## 📂 Projetos em Destaque
 
 ### 🧮 Calculadora Web
-Aplicação simples desenvolvida com HTML, CSS e JavaScript para operações matemáticas básicas.
-
-https://github.com/eduardofhabib/UNPCalculator
+Aplicação front-end para operações matemáticas básicas.  
+**Tecnologias:** HTML, CSS, JavaScript  
+🔗 https://github.com/eduardofhabib/UNPCalculator  
 
 ---
 
 ### 🏦 Sistema Bancário (POO)
-Projeto em C++ simulando operações bancárias utilizando Programação Orientada a Objetos.
-Inclui criação de contas, depósitos, saques e organização de classes.
-
-https://github.com/eduardofhabib/UNPOOAccountsBanks
+Simulação de sistema bancário com foco em Programação Orientada a Objetos.  
+**Tecnologias:** C++  
+**Conceitos:** Classes, encapsulamento, organização de código  
+🔗 https://github.com/eduardofhabib/UNPOOAccountsBanks  
 
 ---
 
-### 🎮 Jogo Procedural com Unity (Multiplayer)
-Jogo desenvolvido na Unity com geração procedural de mundo e sincronização em rede utilizando FishNet.
-
-https://www.youtube.com/watch?v=z1CMz9FxDVc
+### 🎮 Jogo Procedural Multiplayer
+Jogo desenvolvido na Unity com geração procedural e sincronização em rede.  
+**Tecnologias:** C#, Unity, FishNet  
+🎥 https://www.youtube.com/watch?v=z1CMz9FxDVc  
 
 ---
 
