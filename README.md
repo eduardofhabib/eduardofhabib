@@ -25,10 +25,10 @@ Tenho experiência prática como desenvolvedor freelancer desde 2022, trabalhand
 
 ## 📂 Projetos em Destaque
 
-### 🧮 Calculadora Web
-Aplicação front-end para operações matemáticas básicas.  
+### 🪟 Windows XP Desktop Simulator
+Simulação da interface do Windows XP no navegador, incluindo uma calculadora funcional com janelas interativas. 
 **Tecnologias:** HTML, CSS, JavaScript  
-🔗 https://github.com/eduardofhabib/UNPCalculator  
+🔗 https://github.com/eduardofhabib/xp-calculator-simulator
 
 ---
 
